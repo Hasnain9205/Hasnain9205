@@ -1,7 +1,5 @@
 <img src="https://i.ibb.co/jkSqgnp/git.jpg" alt="Hasnain GitHub README header image">
-## About Me
-###Hi, I'm Md. Hasnain
-a passionate Full Stack Developer with experience in building web applications using Node.js, Express, and React. I love solving complex problems and creating efficient solutions.
+### About Me Hi, I'm Md. Hasnain, a passionate Full Stack Developer with experience in building web applications using Node.js, Express, and React. I love solving complex problems and creating efficient solutions.
 
 <h3 align="center">A passionate full stack web developer.</h3>
 
