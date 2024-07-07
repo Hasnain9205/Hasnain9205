@@ -1,3 +1,4 @@
+<img src="https://github.com/Hasnain/Hasnain/blob/master/header.png" alt="Hasnain GitHub README header image">
 <h1 align="center">Hi 👋, I'm Hasnain</h1>
 <h3 align="center">A passionate full stack web developer.</h3>
 
