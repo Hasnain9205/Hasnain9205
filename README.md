@@ -1,5 +1,7 @@
 <img src="https://i.ibb.co/jkSqgnp/git.jpg" alt="Hasnain GitHub README header image">
-<h1 align="center">Hi 👋, I'm Hasnain</h1>
+## About Me
+Hi, I'm Md. Hasnain, a passionate Full Stack Developer with experience in building web applications using Node.js, Express, and React. I love solving complex problems and creating efficient solutions.
+
 <h3 align="center">A passionate full stack web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnain9205&label=Profile%20views&color=0e75b6&style=flat" alt="hasnain9205" /> </p>
