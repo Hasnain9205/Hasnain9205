@@ -16,16 +16,9 @@
 
 - 💬 Ask me about **React, NodeJS, Javascript**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnain9205&label=Profile%20views&color=0e75b6&style=flat" alt="hasnain9205" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnain9205" alt="hasnain9205" /></a> </p>
-
-  <img class="absulate" align="rigth" src="https://i.ibb.co/gPVdc3F/react.jpg" alt="Coding" width="100%">
-
- </p>
-
-
-<h2 align="center">Skills</h2>
+- - 📫 How to reach me **hasnain013039799@gmail.com**
+ 
+  - <h2 align="center">Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
@@ -36,7 +29,15 @@
 </p>
 
 
-- 📫 How to reach me **hasnain013039799@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnain9205&label=Profile%20views&color=0e75b6&style=flat" alt="hasnain9205" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnain9205" alt="hasnain9205" /></a> </p>
+
+  <img class="absulate" align="rigth" src="https://i.ibb.co/gPVdc3F/react.jpg" alt="Coding" width="100%">
+
+ </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
