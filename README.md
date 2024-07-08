@@ -39,7 +39,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnain9205" alt="hasnain9205" /></a> </p>
 
-  <img  align="rigth" src="https://i.ibb.co/gPVdc3F/react.jpg" alt="Coding" width="100%" height="40%">
+  <img  align="rigth" src="https://i.ibb.co/gPVdc3F/react.jpg" alt="Coding" width="100%" height="20%">
 
  </p>
 
