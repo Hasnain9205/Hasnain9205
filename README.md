@@ -6,7 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnain9205" alt="hasnain9205" /></a> </p>
 
-<img align="rigth" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding">
+<div class="relative">
+  <img align="rigth" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding">
+  <img align="rigth" src="https://i.ibb.co/gPVdc3F/react.jpg" alt="Coding">
+</div>
+
 
 <p align="left"> <a href="https://twitter.com/hasnain" target="blank"><img src="https://img.shields.io/twitter/follow/hasnain?logo=twitter&style=for-the-badge" alt="hasnain" /></a> </p>
 
