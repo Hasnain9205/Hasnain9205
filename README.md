@@ -12,9 +12,6 @@
 - 🌱 I’m currently learning **NodeJs,React Native**
 
 - 💬 Ask me about **React, React Native, NodeJS, Javascript**
- 
- 
- <img align="rigth" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding" width="100%">
 
 <h2 align="center">A passionate full stack web developer.</h2>
 
