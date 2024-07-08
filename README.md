@@ -17,7 +17,7 @@
 - 💬 Ask me about **React, NodeJS, Javascript**
 
  
-  - <h2 align="center">Skills</h2>
+   <h2 align="center">Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
