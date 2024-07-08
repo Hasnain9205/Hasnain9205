@@ -1,5 +1,5 @@
 
-
+  <img align="right" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding" srcset=""> 
 ### Hi 👋, I'm Hasnain Ahmed
 <h2 align="center" >About Me</h2>
 <p align="center">
@@ -23,7 +23,7 @@
   <img class="absulate" align="rigth" src="https://i.ibb.co/gPVdc3F/react.jpg" alt="Coding" width="100%">
 
  </p>
-  <img align="right" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding" srcset=""> 
+
 
 ### Skills
 
