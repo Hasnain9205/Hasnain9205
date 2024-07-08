@@ -7,8 +7,7 @@
   I am  a passionate full-stack developer with experience in building web applications using Node.js, Express, and various frontend technologies. I enjoy solving complex problems and continuously learning new skills to improve my craft.
 </p>
 
-
-<h2 align="center">A passionate full stack web developer.</h2>
+<h3 align="center">A passionate full stack web developer</h3>
 
 - 🔭 I’m currently working on RasturantDB Projects
 <!-- - 🔭 I’m currently working on a Real Life Project -->
