@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NodeJs,React Native**
 
-- 💬 Ask me about **React, React Native, NodeJS, Javascript**
+- 💬 Ask me about **React, NodeJS, Javascript**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnain9205&label=Profile%20views&color=0e75b6&style=flat" alt="hasnain9205" /> </p>
 
