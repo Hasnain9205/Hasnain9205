@@ -1,5 +1,21 @@
+ <img align="right" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding" width="100%" srcset=""> 
+
+### Hi 👋, I'm Hasnain Ahmed
+**About Me**
+ I'm a passionate Full Stack Developer with experience in building web applications using Node.js, Express, and React. I love solving complex problems and creating efficient solutions.
+
+<h3 align="center">A passionate JavaScript developer</h3>
+
+- 🔭 I’m currently working on RasturantDB Projects
+<!-- - 🔭 I’m currently working on a Real Life Project -->
+
+- 🌱 I’m currently learning **NodeJs,React Native**
+
+- 💬 Ask me about **React, React Native, NodeJS, Javascript**
+ 
+ 
  <img align="rigth" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding" width="100%">
-### About Me Hi, I'm Md. Hasnain, a passionate Full Stack Developer with experience in building web applications using Node.js, Express, and React. I love solving complex problems and creating efficient solutions.
+
 <h2 align="center">A passionate full stack web developer.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnain9205&label=Profile%20views&color=0e75b6&style=flat" alt="hasnain9205" /> </p>
