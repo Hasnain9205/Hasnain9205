@@ -19,7 +19,7 @@
 
   <img class="absulate" align="rigth" src="https://i.ibb.co/gPVdc3F/react.jpg" alt="Coding" width="100%">
 
-<p align="left"> <a href="https://twitter.com/hasnain" target="blank"><img src="https://img.shields.io/twitter/follow/hasnain?logo=twitter&style=for-the-badge" alt="hasnain" /></a> </p>
+ </p>
 
 ### Skills
 
