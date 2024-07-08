@@ -4,7 +4,7 @@
 **About Me**
  I'm a passionate Full Stack Developer with experience in building web applications using Node.js, Express, and React. I love solving complex problems and creating efficient solutions.
 
-<h3 align="center">A passionate JavaScript developer</h3>
+<h2 align="center">A passionate full stack web developer.</h2>
 
 - 🔭 I’m currently working on RasturantDB Projects
 <!-- - 🔭 I’m currently working on a Real Life Project -->
@@ -12,8 +12,6 @@
 - 🌱 I’m currently learning **NodeJs,React Native**
 
 - 💬 Ask me about **React, React Native, NodeJS, Javascript**
-
-<h2 align="center">A passionate full stack web developer.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnain9205&label=Profile%20views&color=0e75b6&style=flat" alt="hasnain9205" /> </p>
 
