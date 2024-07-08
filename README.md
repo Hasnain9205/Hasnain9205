@@ -1,6 +1,6 @@
 
   <img align="right" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding" srcset=""> 
-### Hi 👋, I'm Hasnain Ahmed
+<h3 align="center">Hi 👋, I'm Hasnain Ahmed</h3>
 
 <h3 align="center">About Me</h3>
 <p align="center">
