@@ -28,7 +28,7 @@
 </p>
 
 - - 📫 How to reach me **hasnain013039799@gmail.com**
-  - <h3 >Connect with me:</h3>
+<h3 >Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/MdHasnain253355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasnain" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mdhasnain.ahmed.714/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdhasnain.ahmed.714" height="30" width="40" /></a>
